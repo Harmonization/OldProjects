@@ -75,4 +75,5 @@
 ![20](../images/6/Screenshot_20.png)
 ![21](../images/6/Screenshot_21.png)
 ![22](../images/6/Screenshot_22.png)
-![23](../images/6/Screenshot_23.png)
+![23](../images/6/Screenshot_24.png)
+![24](../images/6/Screenshot_23.png)
