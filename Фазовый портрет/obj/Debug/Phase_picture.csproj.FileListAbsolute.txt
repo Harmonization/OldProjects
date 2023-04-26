@@ -1,0 +1,45 @@
+C:\Users\inter\source\repos\Phase_picture\obj\Debug\Phase_picture.csprojAssemblyReference.cache
+C:\Users\inter\source\repos\Phase_picture\obj\Debug\Phase_picture.Form1.resources
+C:\Users\inter\source\repos\Phase_picture\obj\Debug\Phase_picture.Properties.Resources.resources
+C:\Users\inter\source\repos\Phase_picture\obj\Debug\Phase_picture.csproj.GenerateResource.cache
+C:\Users\inter\source\repos\Phase_picture\obj\Debug\Phase_picture.csproj.CoreCompileInputs.cache
+C:\Users\inter\source\repos\Phase_picture\bin\Debug\Phase_picture.exe.config
+C:\Users\inter\source\repos\Phase_picture\bin\Debug\Phase_picture.exe
+C:\Users\inter\source\repos\Phase_picture\bin\Debug\Phase_picture.pdb
+C:\Users\inter\source\repos\Phase_picture\bin\Debug\mxparser.dll
+C:\Users\inter\source\repos\Phase_picture\bin\Debug\ZedGraph.dll
+C:\Users\inter\source\repos\Phase_picture\obj\Debug\Phase_picture.csproj.CopyComplete
+C:\Users\inter\source\repos\Phase_picture\obj\Debug\Phase_picture.exe
+C:\Users\inter\source\repos\Phase_picture\obj\Debug\Phase_picture.pdb
+C:\Users\inter\source\repos\Phase_picture\bin\Debug\MathNet.Numerics.dll
+C:\Users\inter\source\repos\Phase_picture\bin\Debug\MathNet.Numerics.xml
+C:\Users\inter\source\repos\3. Фазовый портрет\bin\Debug\Phase_picture.exe.config
+C:\Users\inter\source\repos\3. Фазовый портрет\bin\Debug\Phase_picture.exe
+C:\Users\inter\source\repos\3. Фазовый портрет\bin\Debug\Phase_picture.pdb
+C:\Users\inter\source\repos\3. Фазовый портрет\bin\Debug\MathNet.Numerics.dll
+C:\Users\inter\source\repos\3. Фазовый портрет\bin\Debug\mxparser.dll
+C:\Users\inter\source\repos\3. Фазовый портрет\bin\Debug\ZedGraph.dll
+C:\Users\inter\source\repos\3. Фазовый портрет\bin\Debug\MathNet.Numerics.xml
+C:\Users\inter\source\repos\3. Фазовый портрет\obj\Debug\Phase_picture.csprojAssemblyReference.cache
+C:\Users\inter\source\repos\3. Фазовый портрет\obj\Debug\Phase_picture.Form1.resources
+C:\Users\inter\source\repos\3. Фазовый портрет\obj\Debug\Phase_picture.Properties.Resources.resources
+C:\Users\inter\source\repos\3. Фазовый портрет\obj\Debug\Phase_picture.csproj.GenerateResource.cache
+C:\Users\inter\source\repos\3. Фазовый портрет\obj\Debug\Phase_picture.csproj.CoreCompileInputs.cache
+C:\Users\inter\source\repos\3. Фазовый портрет\obj\Debug\Phase_picture.csproj.CopyComplete
+C:\Users\inter\source\repos\3. Фазовый портрет\obj\Debug\Phase_picture.exe
+C:\Users\inter\source\repos\3. Фазовый портрет\obj\Debug\Phase_picture.pdb
+C:\Users\inter\source\repos\2. Фазовый портрет\bin\Debug\Phase_picture.exe.config
+C:\Users\inter\source\repos\2. Фазовый портрет\bin\Debug\Phase_picture.exe
+C:\Users\inter\source\repos\2. Фазовый портрет\bin\Debug\Phase_picture.pdb
+C:\Users\inter\source\repos\2. Фазовый портрет\bin\Debug\MathNet.Numerics.dll
+C:\Users\inter\source\repos\2. Фазовый портрет\bin\Debug\mxparser.dll
+C:\Users\inter\source\repos\2. Фазовый портрет\bin\Debug\ZedGraph.dll
+C:\Users\inter\source\repos\2. Фазовый портрет\bin\Debug\MathNet.Numerics.xml
+C:\Users\inter\source\repos\2. Фазовый портрет\obj\Debug\Phase_picture.csprojAssemblyReference.cache
+C:\Users\inter\source\repos\2. Фазовый портрет\obj\Debug\Phase_picture.Form1.resources
+C:\Users\inter\source\repos\2. Фазовый портрет\obj\Debug\Phase_picture.Properties.Resources.resources
+C:\Users\inter\source\repos\2. Фазовый портрет\obj\Debug\Phase_picture.csproj.GenerateResource.cache
+C:\Users\inter\source\repos\2. Фазовый портрет\obj\Debug\Phase_picture.csproj.CoreCompileInputs.cache
+C:\Users\inter\source\repos\2. Фазовый портрет\obj\Debug\Phase_picture.csproj.CopyComplete
+C:\Users\inter\source\repos\2. Фазовый портрет\obj\Debug\Phase_picture.exe
+C:\Users\inter\source\repos\2. Фазовый портрет\obj\Debug\Phase_picture.pdb
