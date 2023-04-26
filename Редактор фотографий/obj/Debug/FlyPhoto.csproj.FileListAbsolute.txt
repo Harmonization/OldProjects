@@ -1,0 +1,16 @@
+C:\Users\inter\source\repos\FlyPhoto\bin\Debug\FlyPhoto.exe.config
+C:\Users\inter\source\repos\FlyPhoto\bin\Debug\FlyPhoto.exe
+C:\Users\inter\source\repos\FlyPhoto\bin\Debug\FlyPhoto.pdb
+C:\Users\inter\source\repos\FlyPhoto\obj\Debug\FlyPhoto.csprojAssemblyReference.cache
+C:\Users\inter\source\repos\FlyPhoto\obj\Debug\FlyPhoto.Form1.resources
+C:\Users\inter\source\repos\FlyPhoto\obj\Debug\FlyPhoto.Properties.Resources.resources
+C:\Users\inter\source\repos\FlyPhoto\obj\Debug\FlyPhoto.csproj.GenerateResource.cache
+C:\Users\inter\source\repos\FlyPhoto\obj\Debug\FlyPhoto.csproj.CoreCompileInputs.cache
+C:\Users\inter\source\repos\FlyPhoto\obj\Debug\FlyPhoto.exe
+C:\Users\inter\source\repos\FlyPhoto\obj\Debug\FlyPhoto.pdb
+C:\Users\inter\source\repos\FlyPhoto\bin\Debug\MouseEvents.dll
+C:\Users\inter\source\repos\FlyPhoto\obj\Debug\FlyPhoto.csproj.CopyComplete
+C:\Users\inter\source\repos\FlyPhoto\obj\Debug\FlyPhoto.Form2.resources
+C:\Users\inter\source\repos\FlyPhoto\obj\Debug\FlyPhoto.Gamma.resources
+C:\Users\inter\source\repos\FlyPhoto\obj\Debug\FlyPhoto.Noise.resources
+C:\Users\inter\source\repos\FlyPhoto\obj\Debug\FlyPhoto.Convert.resources
