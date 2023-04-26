@@ -1,0 +1,9 @@
+C:\Users\inter\source\repos\Законченные\Компьютерная графика\Математическая Морфология\Код\bin\Release\Morphology.exe.config
+C:\Users\inter\source\repos\Законченные\Компьютерная графика\Математическая Морфология\Код\bin\Release\Morphology.exe
+C:\Users\inter\source\repos\Законченные\Компьютерная графика\Математическая Морфология\Код\bin\Release\Morphology.pdb
+C:\Users\inter\source\repos\Законченные\Компьютерная графика\Математическая Морфология\Код\obj\Release\Morphology.Form1.resources
+C:\Users\inter\source\repos\Законченные\Компьютерная графика\Математическая Морфология\Код\obj\Release\Morphology.Properties.Resources.resources
+C:\Users\inter\source\repos\Законченные\Компьютерная графика\Математическая Морфология\Код\obj\Release\Morphology.csproj.GenerateResource.cache
+C:\Users\inter\source\repos\Законченные\Компьютерная графика\Математическая Морфология\Код\obj\Release\Morphology.csproj.CoreCompileInputs.cache
+C:\Users\inter\source\repos\Законченные\Компьютерная графика\Математическая Морфология\Код\obj\Release\Morphology.exe
+C:\Users\inter\source\repos\Законченные\Компьютерная графика\Математическая Морфология\Код\obj\Release\Morphology.pdb

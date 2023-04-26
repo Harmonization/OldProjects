@@ -1,0 +1,30 @@
+C:\Users\inter\source\repos\Morphology\bin\Debug\Morphology.exe.config
+C:\Users\inter\source\repos\Morphology\bin\Debug\Morphology.exe
+C:\Users\inter\source\repos\Morphology\bin\Debug\Morphology.pdb
+C:\Users\inter\source\repos\Morphology\obj\Debug\Morphology.csprojAssemblyReference.cache
+C:\Users\inter\source\repos\Morphology\obj\Debug\Morphology.Form1.resources
+C:\Users\inter\source\repos\Morphology\obj\Debug\Morphology.Properties.Resources.resources
+C:\Users\inter\source\repos\Morphology\obj\Debug\Morphology.csproj.GenerateResource.cache
+C:\Users\inter\source\repos\Morphology\obj\Debug\Morphology.csproj.CoreCompileInputs.cache
+C:\Users\inter\source\repos\Morphology\obj\Debug\Morphology.exe
+C:\Users\inter\source\repos\Morphology\obj\Debug\Morphology.pdb
+C:\Users\inter\source\repos\3. Морфология\bin\Debug\Morphology.exe.config
+C:\Users\inter\source\repos\3. Морфология\bin\Debug\Morphology.exe
+C:\Users\inter\source\repos\3. Морфология\bin\Debug\Morphology.pdb
+C:\Users\inter\source\repos\3. Морфология\obj\Debug\Morphology.csprojAssemblyReference.cache
+C:\Users\inter\source\repos\3. Морфология\obj\Debug\Morphology.Form1.resources
+C:\Users\inter\source\repos\3. Морфология\obj\Debug\Morphology.Properties.Resources.resources
+C:\Users\inter\source\repos\3. Морфология\obj\Debug\Morphology.csproj.GenerateResource.cache
+C:\Users\inter\source\repos\3. Морфология\obj\Debug\Morphology.csproj.CoreCompileInputs.cache
+C:\Users\inter\source\repos\3. Морфология\obj\Debug\Morphology.exe
+C:\Users\inter\source\repos\3. Морфология\obj\Debug\Morphology.pdb
+C:\Users\inter\source\repos\Законченные\Компьютерная графика\Математическая Морфология\Код\bin\Debug\Morphology.exe.config
+C:\Users\inter\source\repos\Законченные\Компьютерная графика\Математическая Морфология\Код\bin\Debug\Morphology.exe
+C:\Users\inter\source\repos\Законченные\Компьютерная графика\Математическая Морфология\Код\bin\Debug\Morphology.pdb
+C:\Users\inter\source\repos\Законченные\Компьютерная графика\Математическая Морфология\Код\obj\Debug\Morphology.csprojAssemblyReference.cache
+C:\Users\inter\source\repos\Законченные\Компьютерная графика\Математическая Морфология\Код\obj\Debug\Morphology.Form1.resources
+C:\Users\inter\source\repos\Законченные\Компьютерная графика\Математическая Морфология\Код\obj\Debug\Morphology.Properties.Resources.resources
+C:\Users\inter\source\repos\Законченные\Компьютерная графика\Математическая Морфология\Код\obj\Debug\Morphology.csproj.GenerateResource.cache
+C:\Users\inter\source\repos\Законченные\Компьютерная графика\Математическая Морфология\Код\obj\Debug\Morphology.csproj.CoreCompileInputs.cache
+C:\Users\inter\source\repos\Законченные\Компьютерная графика\Математическая Морфология\Код\obj\Debug\Morphology.exe
+C:\Users\inter\source\repos\Законченные\Компьютерная графика\Математическая Морфология\Код\obj\Debug\Morphology.pdb
