@@ -1,0 +1,13 @@
+C:\Users\inter\source\repos\Functions\obj\Debug\Functions.csprojAssemblyReference.cache
+C:\Users\inter\source\repos\Functions\obj\Debug\Functions.Form1.resources
+C:\Users\inter\source\repos\Functions\obj\Debug\Functions.Properties.Resources.resources
+C:\Users\inter\source\repos\Functions\obj\Debug\Functions.csproj.GenerateResource.cache
+C:\Users\inter\source\repos\Functions\obj\Debug\Functions.csproj.CoreCompileInputs.cache
+C:\Users\inter\source\repos\Functions\bin\Debug\Functions.exe.config
+C:\Users\inter\source\repos\Functions\bin\Debug\Functions.exe
+C:\Users\inter\source\repos\Functions\bin\Debug\Functions.pdb
+C:\Users\inter\source\repos\Functions\bin\Debug\mxparser.dll
+C:\Users\inter\source\repos\Functions\bin\Debug\ZedGraph.dll
+C:\Users\inter\source\repos\Functions\obj\Debug\Functions.csproj.CopyComplete
+C:\Users\inter\source\repos\Functions\obj\Debug\Functions.exe
+C:\Users\inter\source\repos\Functions\obj\Debug\Functions.pdb

@@ -1,0 +1,13 @@
+C:\Users\inter\source\repos\Законченные\Численные методы\Сравнение функций\obj\Release\Functions.csprojAssemblyReference.cache
+C:\Users\inter\source\repos\Законченные\Численные методы\Сравнение функций\obj\Release\Functions.Form1.resources
+C:\Users\inter\source\repos\Законченные\Численные методы\Сравнение функций\obj\Release\Functions.Properties.Resources.resources
+C:\Users\inter\source\repos\Законченные\Численные методы\Сравнение функций\obj\Release\Functions.csproj.GenerateResource.cache
+C:\Users\inter\source\repos\Законченные\Численные методы\Сравнение функций\obj\Release\Functions.csproj.CoreCompileInputs.cache
+C:\Users\inter\source\repos\Законченные\Численные методы\Сравнение функций\bin\Release\Functions.exe.config
+C:\Users\inter\source\repos\Законченные\Численные методы\Сравнение функций\bin\Release\Functions.exe
+C:\Users\inter\source\repos\Законченные\Численные методы\Сравнение функций\bin\Release\Functions.pdb
+C:\Users\inter\source\repos\Законченные\Численные методы\Сравнение функций\bin\Release\mxparser.dll
+C:\Users\inter\source\repos\Законченные\Численные методы\Сравнение функций\bin\Release\ZedGraph.dll
+C:\Users\inter\source\repos\Законченные\Численные методы\Сравнение функций\obj\Release\Functions.csproj.CopyComplete
+C:\Users\inter\source\repos\Законченные\Численные методы\Сравнение функций\obj\Release\Functions.exe
+C:\Users\inter\source\repos\Законченные\Численные методы\Сравнение функций\obj\Release\Functions.pdb
