@@ -1,0 +1,36 @@
+C:\Users\inter\source\repos\3. График 3Д\bin\Release\Graph3D.exe.config
+C:\Users\inter\source\repos\3. График 3Д\bin\Release\Graph3D.exe
+C:\Users\inter\source\repos\3. График 3Д\bin\Release\Graph3D.pdb
+C:\Users\inter\source\repos\3. График 3Д\bin\Release\MathNet.Numerics.dll
+C:\Users\inter\source\repos\3. График 3Д\bin\Release\mxparser.dll
+C:\Users\inter\source\repos\3. График 3Д\bin\Release\Tao.FreeGlut.dll
+C:\Users\inter\source\repos\3. График 3Д\bin\Release\Tao.OpenGl.dll
+C:\Users\inter\source\repos\3. График 3Д\bin\Release\Tao.Platform.Windows.dll
+C:\Users\inter\source\repos\3. График 3Д\bin\Release\Tao.FreeGlut.xml
+C:\Users\inter\source\repos\3. График 3Д\bin\Release\Tao.OpenGl.xml
+C:\Users\inter\source\repos\3. График 3Д\bin\Release\Tao.Platform.Windows.xml
+C:\Users\inter\source\repos\3. График 3Д\obj\Release\Graph3D.csprojAssemblyReference.cache
+C:\Users\inter\source\repos\3. График 3Д\obj\Release\Graph3D.Form1.resources
+C:\Users\inter\source\repos\3. График 3Д\obj\Release\Graph3D.Properties.Resources.resources
+C:\Users\inter\source\repos\3. График 3Д\obj\Release\Graph3D.csproj.GenerateResource.cache
+C:\Users\inter\source\repos\3. График 3Д\obj\Release\Graph3D.csproj.CoreCompileInputs.cache
+C:\Users\inter\source\repos\3. График 3Д\obj\Release\Graph3D.csproj.CopyComplete
+C:\Users\inter\source\repos\3. График 3Д\obj\Release\Graph3D.exe
+C:\Users\inter\source\repos\3. График 3Д\obj\Release\Graph3D.pdb
+C:\Users\inter\source\repos\Законченные\Моделирование\График 3Д\bin\Release\Graph3D.exe.config
+C:\Users\inter\source\repos\Законченные\Моделирование\График 3Д\bin\Release\Graph3D.exe
+C:\Users\inter\source\repos\Законченные\Моделирование\График 3Д\bin\Release\Graph3D.pdb
+C:\Users\inter\source\repos\Законченные\Моделирование\График 3Д\bin\Release\Tao.FreeGlut.dll
+C:\Users\inter\source\repos\Законченные\Моделирование\График 3Д\bin\Release\Tao.OpenGl.dll
+C:\Users\inter\source\repos\Законченные\Моделирование\График 3Д\bin\Release\Tao.Platform.Windows.dll
+C:\Users\inter\source\repos\Законченные\Моделирование\График 3Д\bin\Release\Tao.FreeGlut.xml
+C:\Users\inter\source\repos\Законченные\Моделирование\График 3Д\bin\Release\Tao.OpenGl.xml
+C:\Users\inter\source\repos\Законченные\Моделирование\График 3Д\bin\Release\Tao.Platform.Windows.xml
+C:\Users\inter\source\repos\Законченные\Моделирование\График 3Д\obj\Release\Graph3D.csprojAssemblyReference.cache
+C:\Users\inter\source\repos\Законченные\Моделирование\График 3Д\obj\Release\Graph3D.Form1.resources
+C:\Users\inter\source\repos\Законченные\Моделирование\График 3Д\obj\Release\Graph3D.Properties.Resources.resources
+C:\Users\inter\source\repos\Законченные\Моделирование\График 3Д\obj\Release\Graph3D.csproj.GenerateResource.cache
+C:\Users\inter\source\repos\Законченные\Моделирование\График 3Д\obj\Release\Graph3D.csproj.CoreCompileInputs.cache
+C:\Users\inter\source\repos\Законченные\Моделирование\График 3Д\obj\Release\Graph3D.csproj.CopyComplete
+C:\Users\inter\source\repos\Законченные\Моделирование\График 3Д\obj\Release\Graph3D.exe
+C:\Users\inter\source\repos\Законченные\Моделирование\График 3Д\obj\Release\Graph3D.pdb

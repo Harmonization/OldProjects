@@ -1,0 +1,37 @@
+C:\Users\inter\source\repos\Graph3D\obj\Debug\Graph3D.csprojAssemblyReference.cache
+C:\Users\inter\source\repos\Graph3D\obj\Debug\Graph3D.Form1.resources
+C:\Users\inter\source\repos\Graph3D\obj\Debug\Graph3D.Properties.Resources.resources
+C:\Users\inter\source\repos\Graph3D\obj\Debug\Graph3D.csproj.GenerateResource.cache
+C:\Users\inter\source\repos\Graph3D\obj\Debug\Graph3D.csproj.CoreCompileInputs.cache
+C:\Users\inter\source\repos\Graph3D\bin\Debug\Graph3D.exe.config
+C:\Users\inter\source\repos\Graph3D\bin\Debug\Graph3D.exe
+C:\Users\inter\source\repos\Graph3D\bin\Debug\Graph3D.pdb
+C:\Users\inter\source\repos\Graph3D\bin\Debug\mxparser.dll
+C:\Users\inter\source\repos\Graph3D\bin\Debug\Tao.FreeGlut.dll
+C:\Users\inter\source\repos\Graph3D\bin\Debug\Tao.OpenGl.dll
+C:\Users\inter\source\repos\Graph3D\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\inter\source\repos\Graph3D\bin\Debug\Tao.FreeGlut.xml
+C:\Users\inter\source\repos\Graph3D\bin\Debug\Tao.OpenGl.xml
+C:\Users\inter\source\repos\Graph3D\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\inter\source\repos\Graph3D\obj\Debug\Graph3D.csproj.CopyComplete
+C:\Users\inter\source\repos\Graph3D\obj\Debug\Graph3D.exe
+C:\Users\inter\source\repos\Graph3D\obj\Debug\Graph3D.pdb
+C:\Users\inter\source\repos\3. График 3Д\bin\Debug\Graph3D.exe.config
+C:\Users\inter\source\repos\3. График 3Д\bin\Debug\Graph3D.exe
+C:\Users\inter\source\repos\3. График 3Д\bin\Debug\Graph3D.pdb
+C:\Users\inter\source\repos\3. График 3Д\bin\Debug\mxparser.dll
+C:\Users\inter\source\repos\3. График 3Д\bin\Debug\Tao.FreeGlut.dll
+C:\Users\inter\source\repos\3. График 3Д\bin\Debug\Tao.OpenGl.dll
+C:\Users\inter\source\repos\3. График 3Д\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\inter\source\repos\3. График 3Д\bin\Debug\Tao.FreeGlut.xml
+C:\Users\inter\source\repos\3. График 3Д\bin\Debug\Tao.OpenGl.xml
+C:\Users\inter\source\repos\3. График 3Д\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\inter\source\repos\3. График 3Д\obj\Debug\Graph3D.csprojAssemblyReference.cache
+C:\Users\inter\source\repos\3. График 3Д\obj\Debug\Graph3D.Form1.resources
+C:\Users\inter\source\repos\3. График 3Д\obj\Debug\Graph3D.Properties.Resources.resources
+C:\Users\inter\source\repos\3. График 3Д\obj\Debug\Graph3D.csproj.GenerateResource.cache
+C:\Users\inter\source\repos\3. График 3Д\obj\Debug\Graph3D.csproj.CoreCompileInputs.cache
+C:\Users\inter\source\repos\3. График 3Д\obj\Debug\Graph3D.csproj.CopyComplete
+C:\Users\inter\source\repos\3. График 3Д\obj\Debug\Graph3D.exe
+C:\Users\inter\source\repos\3. График 3Д\obj\Debug\Graph3D.pdb
+C:\Users\inter\source\repos\3. График 3Д\bin\Debug\MathNet.Numerics.dll
