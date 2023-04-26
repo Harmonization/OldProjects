@@ -1,0 +1,53 @@
+C:\Users\inter\source\repos\Integration\bin\Debug\Integration.exe.config
+C:\Users\inter\source\repos\Integration\bin\Debug\Integration.exe
+C:\Users\inter\source\repos\Integration\bin\Debug\Integration.pdb
+C:\Users\inter\source\repos\Integration\obj\Debug\Integration.csprojAssemblyReference.cache
+C:\Users\inter\source\repos\Integration\obj\Debug\Integration.Form1.resources
+C:\Users\inter\source\repos\Integration\obj\Debug\Integration.Properties.Resources.resources
+C:\Users\inter\source\repos\Integration\obj\Debug\Integration.csproj.GenerateResource.cache
+C:\Users\inter\source\repos\Integration\obj\Debug\Integration.csproj.CoreCompileInputs.cache
+C:\Users\inter\source\repos\Integration\obj\Debug\Integration.exe
+C:\Users\inter\source\repos\Integration\obj\Debug\Integration.pdb
+C:\Users\inter\source\repos\Integration\bin\Debug\mxparser.pdb
+C:\Users\inter\source\repos\Integration\obj\Debug\Integration.csproj.CopyComplete
+C:\Users\inter\source\repos\Integration\bin\Debug\ZedGraph.dll
+C:\Users\inter\source\repos\Integration\bin\Debug\ZedGraph.xml
+C:\Users\inter\source\repos\Integration\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\inter\source\repos\Integration\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\inter\source\repos\Integration\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\inter\source\repos\Integration\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\inter\source\repos\Integration\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\inter\source\repos\Integration\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\inter\source\repos\Integration\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\inter\source\repos\Integration\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\inter\source\repos\Integration\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\inter\source\repos\Integration\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\inter\source\repos\Integration\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\inter\source\repos\Integration\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\inter\source\repos\Integration\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\inter\source\repos\Законченные\Численные методы\Определенный интеграл\bin\Debug\Integration.exe.config
+C:\Users\inter\source\repos\Законченные\Численные методы\Определенный интеграл\bin\Debug\Integration.exe
+C:\Users\inter\source\repos\Законченные\Численные методы\Определенный интеграл\bin\Debug\Integration.pdb
+C:\Users\inter\source\repos\Законченные\Численные методы\Определенный интеграл\bin\Debug\mxparser.pdb
+C:\Users\inter\source\repos\Законченные\Численные методы\Определенный интеграл\bin\Debug\ZedGraph.xml
+C:\Users\inter\source\repos\Законченные\Численные методы\Определенный интеграл\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\inter\source\repos\Законченные\Численные методы\Определенный интеграл\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\inter\source\repos\Законченные\Численные методы\Определенный интеграл\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\inter\source\repos\Законченные\Численные методы\Определенный интеграл\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\inter\source\repos\Законченные\Численные методы\Определенный интеграл\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\inter\source\repos\Законченные\Численные методы\Определенный интеграл\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\inter\source\repos\Законченные\Численные методы\Определенный интеграл\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\inter\source\repos\Законченные\Численные методы\Определенный интеграл\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\inter\source\repos\Законченные\Численные методы\Определенный интеграл\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\inter\source\repos\Законченные\Численные методы\Определенный интеграл\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\inter\source\repos\Законченные\Численные методы\Определенный интеграл\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\inter\source\repos\Законченные\Численные методы\Определенный интеграл\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\inter\source\repos\Законченные\Численные методы\Определенный интеграл\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\inter\source\repos\Законченные\Численные методы\Определенный интеграл\obj\Debug\Integration.csprojAssemblyReference.cache
+C:\Users\inter\source\repos\Законченные\Численные методы\Определенный интеграл\obj\Debug\Integration.Form1.resources
+C:\Users\inter\source\repos\Законченные\Численные методы\Определенный интеграл\obj\Debug\Integration.Properties.Resources.resources
+C:\Users\inter\source\repos\Законченные\Численные методы\Определенный интеграл\obj\Debug\Integration.csproj.GenerateResource.cache
+C:\Users\inter\source\repos\Законченные\Численные методы\Определенный интеграл\obj\Debug\Integration.csproj.CoreCompileInputs.cache
+C:\Users\inter\source\repos\Законченные\Численные методы\Определенный интеграл\obj\Debug\Integration.csproj.CopyComplete
+C:\Users\inter\source\repos\Законченные\Численные методы\Определенный интеграл\obj\Debug\Integration.exe
+C:\Users\inter\source\repos\Законченные\Численные методы\Определенный интеграл\obj\Debug\Integration.pdb

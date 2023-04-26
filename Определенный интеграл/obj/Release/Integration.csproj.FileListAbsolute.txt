@@ -1,0 +1,13 @@
+C:\Users\inter\source\repos\Законченные\Численные методы\Определенный интеграл\obj\Release\Integration.csprojAssemblyReference.cache
+C:\Users\inter\source\repos\Законченные\Численные методы\Определенный интеграл\obj\Release\Integration.Form1.resources
+C:\Users\inter\source\repos\Законченные\Численные методы\Определенный интеграл\obj\Release\Integration.Properties.Resources.resources
+C:\Users\inter\source\repos\Законченные\Численные методы\Определенный интеграл\obj\Release\Integration.csproj.GenerateResource.cache
+C:\Users\inter\source\repos\Законченные\Численные методы\Определенный интеграл\obj\Release\Integration.csproj.CoreCompileInputs.cache
+C:\Users\inter\source\repos\Законченные\Численные методы\Определенный интеграл\bin\Release\Integration.exe.config
+C:\Users\inter\source\repos\Законченные\Численные методы\Определенный интеграл\bin\Release\Integration.exe
+C:\Users\inter\source\repos\Законченные\Численные методы\Определенный интеграл\bin\Release\Integration.pdb
+C:\Users\inter\source\repos\Законченные\Численные методы\Определенный интеграл\bin\Release\mxparser.dll
+C:\Users\inter\source\repos\Законченные\Численные методы\Определенный интеграл\bin\Release\ZedGraph.dll
+C:\Users\inter\source\repos\Законченные\Численные методы\Определенный интеграл\obj\Release\Integration.csproj.CopyComplete
+C:\Users\inter\source\repos\Законченные\Численные методы\Определенный интеграл\obj\Release\Integration.exe
+C:\Users\inter\source\repos\Законченные\Численные методы\Определенный интеграл\obj\Release\Integration.pdb
