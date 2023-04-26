@@ -78,6 +78,6 @@
 
 ![22](../images/6/Screenshot_22.png)
 
-![23](../images/6/Screenshot_24.jpg)
+![23](../images/6/Screenshot_25.jpg)
 
 ![24](../images/6/Screenshot_23.png)
